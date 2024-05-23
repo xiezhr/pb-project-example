@@ -17,10 +17,53 @@
   <a href="https://space.bilibili.com/305330347"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical.svg" alt="哔哩哔哩"></a> 
 </p>
 
+##  
+
+如果项目您有所帮助，记得 Star ⭐关注哦，这对我是小凡非常不错的鼓励与支持。
+
+别只点赞收藏哦，收藏≠学会，赶紧动起手敲起来吧。
+
+重新开始最好的时间就是现在   *★,°*:.☆(￣▽￣)/$:*.°★* 。
+
+-------
 
 
 
-#### 🐤项目简介
+### 🐶 新手必读
+
+​    如果您刚入坑PB，可以先看下小凡之前写的文章
+
+- PB从入坑到放弃（一）第一个HelloWorld程序
+
+​		https://mp.weixin.qq.com/s/WxBIiqW-HVNV9hHXerjJ0g
+
+- PB从入坑到放弃（二）编码规范
+
+  https://mp.weixin.qq.com/s/CGh6sPesFeVNDtOTOGS-EA
+
+- PB从入坑到放弃（三）数据窗口
+
+  https://mp.weixin.qq.com/s/8FXyLQu7MnIHesYufRtBFA
+
+- PB从入坑到放弃（四）常用函数
+
+  https://mp.weixin.qq.com/s/wdC9rl7RdSnu3_LO3r_u1g
+
+- PB从入坑到放弃（五）窗口使用技巧
+
+  https://mp.weixin.qq.com/s/FgE3wg_saZoL18fspU6MLA
+
+- PB从入坑到放弃（六）动态SQL使用
+
+​	  https://mp.weixin.qq.com/s/hkJ2tjJsiNPcmonTzSbrbA
+
+- PB从入坑到放弃（七）PBer的福音来了
+
+  https://mp.weixin.qq.com/s/C8-FQD5GMkj8jTpR0um_JA
+
+
+
+### 🐤项目简介
 
 通过一个个由浅入深的案例，带你入坑PB开发，掌握公司日常开发技巧
 
@@ -40,6 +83,29 @@
 | 10ProgressBar              | 10进度条使用              |
 | 11AnimationWindow          | 11动画显示窗口            |
 | ... 博主正在玩命更新中...  | ... 博主正在玩命更新中... |
+
+
+
+### 🐨 技术栈
+
+- 开发语言：PowerScript 及第三方动态库
+- 开发工具：PowerBuilder 9.0  补丁8836
+
+##  
+
+### 🐷 演示图
+
+| biu                                                          | biu                                                          | biu                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------- |
+| ![image-20240523213611622](./assets/image-20240523213611622.png) | ![image-20240523213804217](./assets/image-20240523213804217.png) | ![展示图片](./assets/展示图片.gif) |
+| ![文字闪烁](./assets/文字闪烁.gif)                           | ![滚动条使用](./assets/滚动条使用.gif)                       | ![控件拖动](./assets/控件拖动.gif) |
+| ![使用进度条](./assets/使用进度条.gif)                       | ![动画视窗](./assets/动画视窗.gif)                           | ![秒表计时](./assets/秒表计时.gif) |
+|                                                              |                                                              |                                    |
+|                                                              |                                                              |                                    |
+|                                                              |                                                              |                                    |
+|                                                              |                                                              |                                    |
+|                                                              |                                                              |                                    |
+|                                                              |                                                              |                                    |
 
 
 
