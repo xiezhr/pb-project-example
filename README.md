@@ -5,8 +5,8 @@
 <p align="center">
 	<img alt="logo" width="200px" src="images/logo.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">springboot-vue3-instance</h1>
-<h4 align="center">基于SpringBoot+vue3项目实例</h4>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">pb-project-example</h1>
+<h4 align="center">PB案例学习笔记</h4>
 <p align="center">
   <a href="https://gitee.com/xiezhr/image-learn-bed/raw/master/image/wx.jpg"><img src="https://img.shields.io/badge/weChat-%E5%BE%AE%E4%BF%A1%E5%8F%B7-green.svg" alt="微信"></a>
   <a href="https://gitee.com/xiezhr/image-learn-bed/raw/master/image/微信公众号.png"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-XiezhrSpace-blue.svg" alt="公众号"></a>
@@ -16,6 +16,7 @@
   <a href="https://juejin.im/user/1829211147871415"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-9cf.svg" alt="掘金"></a>
   <a href="https://space.bilibili.com/305330347"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical.svg" alt="哔哩哔哩"></a> 
 </p>
+
 
 
 
