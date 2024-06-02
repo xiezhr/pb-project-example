@@ -84,7 +84,7 @@
 | 11AnimationWindow          | [11动画显示窗口](http://t.csdnimg.cn/nsKmd)         |
 | 12Stopwatch                | [12秒表实现](http://t.csdnimg.cn/HAQP7)             |
 | 13ElectronicClock          | [13徒手做个电子时钟](http://t.csdnimg.cn/mS2FK)     |
-| 14UseNumAndUseDateLimit    | [1414使用次数和日期限制](http://t.csdnimg.cn/38U7O) |
+| 14UseNumAndUseDateLimit    | [14使用次数和日期限制](http://t.csdnimg.cn/38U7O)   |
 
 
 
