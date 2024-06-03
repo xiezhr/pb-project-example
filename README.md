@@ -69,22 +69,25 @@
 
 ### 🐭 项目结构
 
-| 项目名称                   | 文章地址                                            |
-| -------------------------- | --------------------------------------------------- |
-| 01ApplicationWindowControl | [01创建应用、窗口与控件](http://t.csdnimg.cn/n53vV) |
-| 02DirectoryBrowser         | [02目录浏览器](http://t.csdnimg.cn/gZSk9)           |
-| 03PasswordAuthentication   | [03用户名密码校验](http://t.csdnimg.cn/Gltdx)       |
-| 04FileBrowser              | [04文件浏览器](http://t.csdnimg.cn/XTLvq)           |
-| 05PicBrowser               | [05图片浏览器](http://t.csdnimg.cn/bqWhF)           |
-| 06DragIcon                 | [06图标移动](http://t.csdnimg.cn/gPEre)             |
-| 07FlashingText             | [07闪烁文字](http://t.csdnimg.cn/xgMcc)             |
-| 08DragControl              | [08拖动控件](http://t.csdnimg.cn/vTJLh)             |
-| 09ScrollBar                | [09滚动条使用](http://t.csdnimg.cn/h6h98)           |
-| 10ProgressBar              | [10进度条使用](http://t.csdnimg.cn/h1O9e)           |
-| 11AnimationWindow          | [11动画显示窗口](http://t.csdnimg.cn/nsKmd)         |
-| 12Stopwatch                | [12秒表实现](http://t.csdnimg.cn/HAQP7)             |
-| 13ElectronicClock          | [13徒手做个电子时钟](http://t.csdnimg.cn/mS2FK)     |
-| 14UseNumAndUseDateLimit    | [14使用次数和日期限制](http://t.csdnimg.cn/38U7O)   |
+| 项目名称                   | 文章地址                                                  |
+| -------------------------- | --------------------------------------------------------- |
+| 01ApplicationWindowControl | [01创建应用、窗口与控件](http://t.csdnimg.cn/n53vV)       |
+| 02DirectoryBrowser         | [02目录浏览器](http://t.csdnimg.cn/gZSk9)                 |
+| 03PasswordAuthentication   | [03用户名密码校验](http://t.csdnimg.cn/Gltdx)             |
+| 04FileBrowser              | [04文件浏览器](http://t.csdnimg.cn/XTLvq)                 |
+| 05PicBrowser               | [05图片浏览器](http://t.csdnimg.cn/bqWhF)                 |
+| 06DragIcon                 | [06图标移动](http://t.csdnimg.cn/gPEre)                   |
+| 07FlashingText             | [07闪烁文字](http://t.csdnimg.cn/xgMcc)                   |
+| 08DragControl              | [08拖动控件](http://t.csdnimg.cn/vTJLh)                   |
+| 09ScrollBar                | [09滚动条使用](http://t.csdnimg.cn/h6h98)                 |
+| 10ProgressBar              | [10进度条使用](http://t.csdnimg.cn/h1O9e)                 |
+| 11AnimationWindow          | [11动画显示窗口](http://t.csdnimg.cn/nsKmd)               |
+| 12Stopwatch                | [12秒表实现](http://t.csdnimg.cn/HAQP7)                   |
+| 13ElectronicClock          | [13徒手做个电子时钟](http://t.csdnimg.cn/mS2FK)           |
+| 14UseNumAndUseDateLimit    | [14使用次数和日期限制](http://t.csdnimg.cn/38U7O)         |
+| 15AppUseNumLimit           | [15怎样限制应用程序运行次数？](http://t.csdnimg.cn/Aqr8d) |
+| 16SetSystemTime            | [16做一个修改系统时间的小应用](http://t.csdnimg.cn/mK03y) |
+| 17ColorDialogBox           | [17制作一个颜色选择框](http://t.csdnimg.cn/vCRWL)         |
 
 
 
@@ -103,7 +106,7 @@
 | ![文字闪烁](./assets/文字闪烁.gif)                           | ![滚动条使用](./assets/滚动条使用.gif)                       | ![控件拖动](./assets/控件拖动.gif)                           |
 | ![使用进度条](./assets/使用进度条.gif)                       | ![动画视窗](./assets/动画视窗.gif)                           | ![秒表计时](./assets/秒表计时.gif)                           |
 | ![电子时钟](./assets/电子时钟.gif)                           | ![限制使用](./assets/限制使用.gif)                           | ![运用程序启动次数限制](./assets/image-20240602102604039.png) |
-|                                                              |                                                              |                                                              |
+| ![颜色选择框](./assets/颜色选择框.gif)                       |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
