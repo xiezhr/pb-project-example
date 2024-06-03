@@ -1,7 +1,6 @@
 Save Format v3.0(19990112)
+@begin Unchecked
+@end;
 @begin Targets
  0 "exampleapp.pbt";
- 1 "test.pbt";
 @end;
-DefaultTarget "test.pbt";
-DefaultRemoteTarget "test.pbt";
