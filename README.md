@@ -86,6 +86,8 @@
 | 15AppUseNumLimit           | [15怎样限制应用程序运行次数？](http://t.csdnimg.cn/Aqr8d) |
 | 16SetSystemTime            | [16做一个修改系统时间的小应用](http://t.csdnimg.cn/mK03y) |
 | 17ColorDialogBox           | [17制作一个颜色选择框](http://t.csdnimg.cn/vCRWL)         |
+| 18IPAddressEdit            | [18制作一个IP地址编辑框 ](http://t.csdnimg.cn/9506K)      |
+| 19PicButton                | [19制作一个图片按钮](http://t.csdnimg.cn/mZICg)           |
 
 
 
@@ -104,7 +106,7 @@
 | ![文字闪烁](./assets/文字闪烁.gif)                           | ![滚动条使用](./assets/滚动条使用.gif)                       | ![控件拖动](./assets/控件拖动.gif)                           |
 | ![使用进度条](./assets/使用进度条.gif)                       | ![动画视窗](./assets/动画视窗.gif)                           | ![秒表计时](./assets/秒表计时.gif)                           |
 | ![电子时钟](./assets/电子时钟.gif)                           | ![限制使用](./assets/限制使用.gif)                           | ![运用程序启动次数限制](./assets/image-20240602102604039.png) |
-| ![颜色选择框](./assets/颜色选择框.gif)                       |                                                              |                                                              |
+| ![颜色选择框](./assets/颜色选择框.gif)                       | ![IP地址编辑器](./assets/IP地址编辑器.gif)                   | ![图片按钮](./assets/图片按钮.gif)                           |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
