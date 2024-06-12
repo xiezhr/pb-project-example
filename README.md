@@ -88,6 +88,7 @@
 | 17ColorDialogBox           | [17制作一个颜色选择框](http://t.csdnimg.cn/vCRWL)         |
 | 18IPAddressEdit            | [18制作一个IP地址编辑框 ](http://t.csdnimg.cn/9506K)      |
 | 19PicButton                | [19制作一个图片按钮](http://t.csdnimg.cn/mZICg)           |
+| 20HyperlinkButton          | [20之所一个超链接按钮](http://t.csdnimg.cn/R4krA)         |
 
 
 
@@ -107,7 +108,7 @@
 | ![使用进度条](./assets/使用进度条.gif)                       | ![动画视窗](./assets/动画视窗.gif)                           | ![秒表计时](./assets/秒表计时.gif)                           |
 | ![电子时钟](./assets/电子时钟.gif)                           | ![限制使用](./assets/限制使用.gif)                           | ![运用程序启动次数限制](./assets/image-20240602102604039.png) |
 | ![颜色选择框](./assets/颜色选择框.gif)                       | ![IP地址编辑器](./assets/IP地址编辑器.gif)                   | ![图片按钮](./assets/图片按钮.gif)                           |
-|                                                              |                                                              |                                                              |
+| ![超链接按钮](./assets/超链接按钮.gif)                       |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
