@@ -88,7 +88,7 @@
 | 17ColorDialogBox           | [17制作一个颜色选择框](http://t.csdnimg.cn/vCRWL)         |
 | 18IPAddressEdit            | [18制作一个IP地址编辑框 ](http://t.csdnimg.cn/9506K)      |
 | 19PicButton                | [19制作一个图片按钮](http://t.csdnimg.cn/mZICg)           |
-| 20HyperlinkButton          | [20之所一个超链接按钮](http://t.csdnimg.cn/R4krA)         |
+| 20HyperlinkButton          | [20制作一个超链接按钮](http://t.csdnimg.cn/R4krA)         |
 
 
 
