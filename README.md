@@ -90,6 +90,7 @@
 | 19PicButton                 | [19制作一个图片按钮](http://t.csdnimg.cn/mZICg)           |
 | 20HyperlinkButton           | [20制作一个超链接按钮](http://t.csdnimg.cn/R4krA)         |
 | 21LowercaseAmountConversion | [21小大写金额转换](http://t.csdnimg.cn/nNk4y)             |
+| 22VoiceBroadcastAmount      | [22语音播报金额](http://t.csdnimg.cn/xLoDI)               |
 
 
 
@@ -113,6 +114,11 @@
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
 
 
+
+金额语音播报
+
+<video src="./assets/金额语音播报.mp4"></video>
 
