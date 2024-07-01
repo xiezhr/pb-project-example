@@ -91,6 +91,9 @@
 | 20HyperlinkButton           | [20制作一个超链接按钮](http://t.csdnimg.cn/R4krA)         |
 | 21LowercaseAmountConversion | [21小大写金额转换](http://t.csdnimg.cn/nNk4y)             |
 | 22VoiceBroadcastAmount      | [22语音播报金额](http://t.csdnimg.cn/xLoDI)               |
+| 23WindowMenu                | [23创建一个窗口菜单](http://t.csdnimg.cn/eYekC)           |
+| 24GraphicsMenu              | [24创建一个窗口图形菜单](http://t.csdnimg.cn/IZUON)       |
+| 25MDIWindowWithPictures     | [25制作一个带底图的MDI窗口](http://t.csdnimg.cn/PLlb3)    |
 
 
 
@@ -111,7 +114,7 @@
 | ![电子时钟](./assets/电子时钟.gif)                           | ![限制使用](./assets/限制使用.gif)                           | ![运用程序启动次数限制](./assets/image-20240602102604039.png) |
 | ![颜色选择框](./assets/颜色选择框.gif)                       | ![IP地址编辑器](./assets/IP地址编辑器.gif)                   | ![图片按钮](./assets/图片按钮.gif)                           |
 | ![超链接按钮](./assets/超链接按钮.gif)                       | ![小大写金额转换](./assets/小大写金额转换.gif)               | ![语音播报金额](./assets/金额语音播报.gif)                   |
-|                                                              |                                                              |                                                              |
+| ![菜单窗口](./assets/菜单窗口.gif)                           | ![image-20240624113640342](./assets/image-20240624113640342.png) | ![图片mdi](./assets/图片mdi.gif)                             |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
