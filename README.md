@@ -102,6 +102,7 @@
 | 31DynamicSettingsMenu       | [31制作一个动态设置菜单的程序](https://blog.csdn.net/rong09_13/article/details/140337235) |
 | 32Notepad                   | [32制作一个简单记事本程序](https://blog.csdn.net/rong09_13/article/details/140479664) |
 | 33Conn2Oracle               |                                                              |
+| 34Conn2MySQL                ||
 
 
 
@@ -123,7 +124,7 @@
 | ![颜色选择框](./assets/颜色选择框.gif)                       | ![IP地址编辑器](./assets/IP地址编辑器.gif)                   | ![图片按钮](./assets/图片按钮.gif)                           |
 | ![超链接按钮](./assets/超链接按钮.gif)                       | ![小大写金额转换](./assets/小大写金额转换.gif)               | ![语音播报金额](./assets/金额语音播报.gif)                   |
 | ![菜单窗口](./assets/菜单窗口.gif)                           | ![image-20240624113640342](./assets/image-20240624113640342.png) | ![图片mdi](./assets/图片mdi.gif)                             |
-|                                                              |                                                              |                                                              |
+| ![连接oracle](./assets/连接oracle.gif)                       | ![连接MySQL](./assets/mysql.gif)                             |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 
