@@ -7,7 +7,7 @@
 <h4 align="center">PB案例学习笔记</h4>
 <p align="center">
   <a href="https://gitee.com/xiezhr/image-learn-bed/raw/master/image/wx.jpg"><img src="https://img.shields.io/badge/weChat-%E5%BE%AE%E4%BF%A1%E5%8F%B7-green.svg" alt="微信"></a>
-  <a href="https://gitee.com/xiezhr/image-learn-bed/raw/master/image/微信公众号.png"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-XiezhrSpace-blue.svg" alt="公众号"></a>
+  <a href="https://gitee.com/xiezhr/image-learn-bed/raw/master/image/微信公众号.png"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-程序员晓凡-blue.svg" alt="公众号"></a>
   <a href="https://www.xiezhrspace.cn"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-www.xiezhrspace.cn-orange.svg" alt="个人博客"></a>
   <a href="https://blog.csdn.net/rong09_13"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="cndn"></a>
    <a href="https://www.zhihu.com/people/rong-xie-49-35/posts"><img 		         src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue.svg" alt="知乎"></a>
