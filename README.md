@@ -101,8 +101,33 @@
 | 30DynamicallyCreateWindows  | [30动态打开窗口](https://blog.csdn.net/rong09_13/article/details/140307997) |
 | 31DynamicSettingsMenu       | [31制作一个动态设置菜单的程序](https://blog.csdn.net/rong09_13/article/details/140337235) |
 | 32Notepad                   | [32制作一个简单记事本程序](https://blog.csdn.net/rong09_13/article/details/140479664) |
-| 33Conn2Oracle               |                                                              |
-| 34Conn2MySQL                ||
+| 33Conn2Oracle               | [33 PB连接Oracle数据库查询数据](https://blog.csdn.net/rong09_13/article/details/141369768) |
+| 34Conn2MySQL                | [34PB连接MySQL数据库](https://blog.csdn.net/rong09_13/article/details/151022097) |
+| 35Conn2Access               | [35PB连接Access数据库](https://blog.csdn.net/rong09_13/article/details/151023095) |
+| 36Conn2SQLite               | [36PB连接SQLite数据库](https://blog.csdn.net/rong09_13/article/details/151023319) |
+| 37SetTabColor               | [37设置数据窗口颜色](https://blog.csdn.net/rong09_13/article/details/151023392) |
+| 38SetTabPic                 | [38设置数据窗口条件位图](https://blog.csdn.net/rong09_13/article/details/151023595) |
+| 39CharDisplayData           | [39比例图显示数据](https://blog.csdn.net/rong09_13/article/details/151023724) |
+| 40WindowZoomDisplay         | [40数据窗口缩放显示](https://blog.csdn.net/rong09_13/article/details/151023781) |
+| 41DynamicSetDataWindowStyle | [41动态设置数据窗口风格](https://blog.csdn.net/rong09_13/article/details/151023854) |
+| 42UseTheTabs                | [42使用选项卡](https://blog.csdn.net/rong09_13/article/details/151024194) |
+| 43UseListView               | [43使用列表视窗](https://blog.csdn.net/rong09_13/article/details/151024283) |
+| 44UseDropDownDataWindow     | [44使用下拉子数据窗口](#)                                    |
+| 45DynCreateDataWindow       | [45动态创建数据窗口](#)                                      |
+| 46EditDataInDataWindow      | [46在数据窗口中编辑数据](#)                                  |
+| 47DataRecovery              | [47恢复删除的数据](#)                                        |
+| 48SortByEmpNo               | [48按员工编号排序](#)                                        |
+| 49DataWindowSort            | [49数据窗口排序](#)                                          |
+| 50UseDataStoreShareData     | [50使用DataStore共享数据](#)                                 |
+| 51QueryData                 | [51数据查询](#)                                              |
+| 52FuzzyQueryData            | [52模糊查询](#)                                              |
+| 53GetPinYinFistt            | [53获取汉字拼音首字母](#)                                    |
+| 54KeyboardSimulation        | [54键盘模拟器](#)                                            |
+| 55SaveData2Word             | [55将数据保存到word文件中](#)                                |
+| 56SaveData2Excel            | [56将数据保存到Excel文件中](#)                               |
+| 57PrintPreview              | [57报表打印预览](#)                                          |
+| 58ReportPrint               | [58报表打印](#)                                              |
+|                             |                                                              |
 
 
 
