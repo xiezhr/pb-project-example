@@ -33,7 +33,7 @@
 
 - PB从入坑到放弃（一）第一个HelloWorld程序
 
-​			https://mp.weixin.qq.com/s/WxBIiqW-HVNV9hHXerjJ0g
+​		https://mp.weixin.qq.com/s/WxBIiqW-HVNV9hHXerjJ0g
 
 - PB从入坑到放弃（二）编码规范
 
@@ -124,7 +124,20 @@
 | ![颜色选择框](./assets/颜色选择框.gif)                       | ![IP地址编辑器](./assets/IP地址编辑器.gif)                   | ![图片按钮](./assets/图片按钮.gif)                           |
 | ![超链接按钮](./assets/超链接按钮.gif)                       | ![小大写金额转换](./assets/小大写金额转换.gif)               | ![语音播报金额](./assets/金额语音播报.gif)                   |
 | ![菜单窗口](./assets/菜单窗口.gif)                           | ![image-20240624113640342](./assets/image-20240624113640342.png) | ![图片mdi](./assets/图片mdi.gif)                             |
-| ![连接oracle](./assets/连接oracle.gif)                       | ![连接MySQL](./assets/mysql.gif)                             |                                                              |
+| ![连接oracle](./assets/连接oracle.gif)                       | ![连接MySQL](./assets/mysql.gif)                             | ![浮动工具栏](./assets/浮动工具栏.gif)                       |
+| ![任务栏隐藏显示](./assets/任务栏隐藏显示.gif)               | ![右键菜单](./assets/右键菜单.gif)                           | ![htmlhelp](./assets/htmlhelp.gif)                           |
+| ![动态打开窗口](./assets/动态打开窗口.gif)                   | ![动态设置菜单](./assets/动态设置菜单.gif)                   | ![记事本](./assets/记事本.gif)                               |
+| ![access](./assets/access.gif)                               | ![sqlite](./assets/sqlite.gif)                               | ![image-7](./assets/image-7.png)                             |
+| ![image-6](./assets/image-6.png)                             | ![chart](./assets/chart.gif)                                 | ![zoom](./assets/zoom.gif)                                   |
+| ![dym](./assets/dym.gif)                                     | ![tab](./assets/tab.gif)                                     | ![listview](./assets/listview.gif)                           |
+| ![datawindow](./assets/datawindow.gif)                       | ![dym](./assets/dym-1756540045575-17.gif)                    | ![update](./assets/update.gif)                               |
+| ![rev](./assets/rev.gif)                                     | ![ad](./assets/ad.gif)                                       | ![datawindowsort](./assets/datawindowsort.gif)               |
+| ![share](./assets/share.gif)                                 | ![query](./assets/query.gif)                                 | ![fuzz_query](./assets/fuzz_query.gif)                       |
+| ![pinyin](./assets/pinyin.gif)                               | ![keyboard](./assets/keyboard.gif)                           | ![word-1](./assets/word-1.gif)                               |
+| ![excel](./assets/excel.gif)                                 | ![print](./assets/print.gif)                                 |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 
