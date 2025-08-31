@@ -159,7 +159,7 @@
 | ![rev](./assets/rev.gif)                                     | ![ad](./assets/ad.gif)                                       | ![datawindowsort](./assets/datawindowsort.gif)               |
 | ![share](./assets/share.gif)                                 | ![query](./assets/query.gif)                                 | ![fuzz_query](./assets/fuzz_query.gif)                       |
 | ![pinyin](./assets/pinyin.gif)                               | ![keyboard](./assets/keyboard.gif)                           | ![word-1](./assets/word-1.gif)                               |
-| ![excel](./assets/excel.gif)                                 | ![print](./assets/print.gif)                                 |                                                              |
+| ![excel](./assets/excel.gif)                                 | ![print](./assets/print.gif)                                 | ![报表打印](./assets/报表打印.gif)                           |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
